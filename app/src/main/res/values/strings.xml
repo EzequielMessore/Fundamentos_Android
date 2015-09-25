@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">Android Basics</string>
+
+    <string name="title_activity_service_order">Service Order</string>
+    <string name="title_activity_service_order_list">List of Service Orders</string>
+    <string name="title_activity_register_user">Register User</string>
+
+    <string name="msg_mandatory">Mandatory field.</string>
+    <string name="msg_invalid_date">Invalid date.</string>
+    <string name="msg_invalid_time">Invalid time.</string>
+    <string name="msg_invalid_value">Invalid value.</string>
+    <string name="msg_add_success">Service order added successfully.</string>
+    <string name="msg_edit_success">Service order edited successfully.</string>
+    <string name="msg_delete_success">Service order excluded successfully.</string>
+    <string name="msg_archived_success">Service order archived successfully.</string>
+    <string name="msg_active_success">Archived</string>
+    <string name="msg_confirm_archived">Archive the selected service order ?</string>
+    <string name="msg_confirm_active">Confirm Active ?</string>
+    <string name="msg_confirm_delete">Confirm Delete ?</string>
+    <string name="msg_no_possible_archived">You can not file an unpaid registration!</string>
+    <string name="msg_ok">OK</string>
+    <string name="msg_terms">Terms and Conditions, Message</string>
+    <string name="msg_password_no_confer">Passwords do not match</string>
+    <string name="msg_user_register_success">User Register With Success</string>
+    <string name="msg_user_already_registered">User already registered</string>
+    <string name="msg_login_invalid">User or password invalid</string>
+    <string name="msg_terms_conditions_required">You cannot make the register if they do not accept the terms and conditions.</string>
+
+    <string name="lbl_active">Active</string>
+    <string name="lbl_user">User</string>
+    <string name="lbl_pass">Password</string>
+    <string name="lbl_confirm_pass">Confirm Password</string>
+    <string name="lbl_btn_sign_in">Sign In</string>
+    <string name="lbl_service_orders">Service Orders</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_client_name">Client Name</string>
+    <string name="lbl_address">Address</string>
+    <string name="lbl_date">Date</string>
+    <string name="lbl_value">Value</string>
+    <string name="lbl_paid">Paid ?</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_time">Time</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_delete">Delete</string>
+    <string name="lbl_options">Options</string>
+    <string name="lbl_client_phone">Phone</string>
+    <string name="lbl_call">Call</string>
+    <string name="lbl_confirm">Confirm</string>
+    <string name="lbl_share">Share</string>
+    <string name="lbl_share_option">Choose one option</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_archived">Archived ?</string>
+    <string name="lbl_btn_sign_up">Sign Up</string>
+    <string name="lbl_terms_conditions_agree">I agree to the terms and conditions.</string>
+    <string name="lbl_btn_term">Term</string>
+    <string name="lbl_terms_conditions">Terms And Conditions</string>
+    <string name="lbl_keep_signed">Keep me signed</string>
+    <string name="lbl_power">Power</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/title_dialog"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@color/material_500"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:text="@string/lbl_terms_conditions"
+        android:textColor="@color/material_50" />
+</RelativeLayout>

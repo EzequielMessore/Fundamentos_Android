@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".controllers.ServiceOrderActivity">
+
+    <item
+        android:id="@+id/actionShare"
+        android:icon="@mipmap/ic_action_share"
+        android:title="@string/lbl_share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionSearch"
+        android:icon="@mipmap/ic_action_search"
+        android:title="@string/lbl_search"
+        app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/actionSearchNaoArquivados"
+                    android:title="Não Arquivados"></item>
+                <item
+                    android:id="@+id/actionSearchArquivados"
+                    android:title="Arquivados"></item>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_power"
+        android:icon="@mipmap/ic_action_power"
+        android:title="@string/lbl_power"
+        app:showAsAction="always" />
+</menu>
